@@ -16,7 +16,7 @@
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/pedrongou/)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### 🤡
-<img src="https://pbs.twimg.com/media/FmnQGNDXwAATq-d.jpg" width="512px"/>
+<img src="https://pbs.twimg.com/media/FmnQGNDXwAATq-d.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedroanicetoo&icon=0&color=2)](https://visitcount.itsvg.in)
