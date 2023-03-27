@@ -1,6 +1,8 @@
 # 💫 About Me:
 💎 Ruby on Rails| 🐘Postgres | ❇️Vuejs | 🐧 Linux | 💻 Web Developer<br>🎓 Graduated in computer science at the Federal University of Goiás<br>✌ Clean code discipule <br>📖 Learning more about clean architecture | Metapropraming <br>🕹  Card / Board / Indie Gamer<br>👋 Open to network <br>👨‍💻 Just want to work with computers and get paid for it
 
+### 🤡
+<img src="https://pbs.twimg.com/media/FmnQGNDXwAATq-d.jpg" width="250px"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.linkedin.com/in/pedro-aniceto-97916a152/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroo__pereira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-aniceto-97916a152/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pedrongou/) 
@@ -11,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pedroanicetoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroanicetoo&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroanicetoo&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🤡
-<img src="https://pbs.twimg.com/media/FmnQGNDXwAATq-d.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedroanicetoo&icon=0&color=2)](https://visitcount.itsvg.in)
