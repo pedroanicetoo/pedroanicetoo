@@ -1,5 +1,5 @@
 # 💫 About Me:
-💎 Ruby on Rails| 🐘Postgres | ❇️Vuejs | 🐧 Linux | 💻 Web Developer<br>🎓 Graduated in computer science at the Federal University of Goiás<br>✌ Clean code discipule <br>📖 Learning more about clean architecture | Metapropraming <br>🕹  Card / Board / Indie Gamer<br>👋 Open to network <br>👨‍💻 Just want to work with computers and get paid for it
+💎 Ruby on Rails| 🐘Postgres | ❇️Vuejs | 🐧 Linux | 💻 Web Developer<br>🎓 Graduated in computer science at the Federal University of Goiás<br>✌ Clean code disciple <br>📖 Learning more about clean architecture | Metapropraming <br>🕹  Card / Board / Indie Gamer<br>👋 Open to network <br>👨‍💻 Just want to work with computers and get paid for it
 
 ### 🤡
 <img src="https://pbs.twimg.com/media/EcXHsGiX0AMSMLG.jpg" width="250px"/>
